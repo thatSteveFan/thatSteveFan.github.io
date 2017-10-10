@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: Xixia
-description: Welcome to Xixia！
+name: Trump, Politics and Empires
+description: A blog about modern politics and empires historical and modern
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://github.com/zxixia/jekyll-xixia
@@ -13,7 +13,7 @@ url: https://github.com/zxixia/jekyll-xixia
 baseurl: '/thatSteveFan.github.io'
 ## default date_format
 date_format: 
-  title: "%B-%-d-%Y"
+  title: "%a: %B-%-d-%Y %l%p"
   archive: "%b"
   categories: "%b-%Y"
   tag: "%b-%Y"
