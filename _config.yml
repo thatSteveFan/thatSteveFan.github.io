@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: Trump, Politics and Empires
-description: A blog about modern politics and empires historical and modern
+description: A blog about modern politics and empires, both historical and modern
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://github.com/zxixia/jekyll-xixia
