@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'Test'
+date: '2017-10-09 22:18:00'
+---
+
+This is a test post to see what I am able to do.
+
+The word [link](http://1.bp.blogspot.com/-CzqzzBV2tMk/TxBM3ar18MI/AAAAAAAAPm0/6faLPO9BM8w/s1600/i-can-has-cheezburger.jpg) in this sentence should be a link to a cute kitty
+
+I can also add images:
+
+![cute kitty](http://1.bp.blogspot.com/-CzqzzBV2tMk/TxBM3ar18MI/AAAAAAAAPm0/6faLPO9BM8w/s1600/i-can-has-cheezburger.jpg) 
+
