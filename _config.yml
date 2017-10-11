@@ -1,10 +1,10 @@
 # Jekyll configuration
 
-name: Trump, Politics and Empires
+name: Trump, Politics, and Empires
 description: A blog about modern politics and empires, both historical and modern
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/zxixia/jekyll-xixia
+url: https://thatSteveFan.github.io
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
